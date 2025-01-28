@@ -36,6 +36,30 @@ const projectList = [
       "Primeira vez utilizando o GitHub e aprendendo algumas funções básicas.",
     url: "https://github.com/AndreyVaz/skills-introduction-to-github",
   },
+  {
+    title: "Python Data Analysis",
+    description:
+      "Análise de dados utilizando Python e bibliotecas como Pandas e Matplotlib.",
+    url: "https://github.com/AndreyVaz/python-data-analysis",
+  },
+  {
+    title: "Back-End API with Flask",
+    description:
+      "Desenvolvimento de uma API RESTful utilizando Flask para o back-end.",
+    url: "https://github.com/AndreyVaz/flask-backend-api",
+  },
+  {
+    title: "Mobile App Design",
+    description:
+      "Projeto de design de interface de usuário para um aplicativo móvel.",
+    url: "https://github.com/AndreyVaz/mobile-app-design",
+  },
+  {
+    title: "Graphic Design Portfolio",
+    description:
+      "Portfólio de design gráfico com exemplos de logotipos, banners e outros trabalhos.",
+    url: "https://github.com/AndreyVaz/graphic-design-portfolio",
+  },
 ];
 
 const Portfolio = () => {
